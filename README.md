@@ -17,8 +17,8 @@ foo ```
 > 
 > abc
 
-* ab
-* * ab
-* ab
-* 
-* ab
+- ab
+- - ab
+- ab
+- 
+- ab
